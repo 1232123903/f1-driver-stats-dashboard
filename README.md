@@ -1,6 +1,8 @@
 # f1-driver-stats-dashboard
 Interactive Formula 1 driver standings dashboard built with Python and HTML.
 ## 📸 Overview
+<img width="1843" height="920" alt="f1-dashboard" src="https://github.com/user-attachments/assets/5e6cc879-edbb-44f0-be85-c836eb455b28" />
+
 
 The dashboard provides a visual overview of Formula 1 driver standings, featuring driver cards, championship points, team information, and a bar chart for comparing the top drivers.
 
